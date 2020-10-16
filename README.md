@@ -3,6 +3,7 @@ There are N couples sitting in a row of length 2 * N. They are currently ordered
 
 
 #include<bits/stdc++.h> 
+
 using namespace std; 
 
 //includes function of a and b
